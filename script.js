@@ -109,7 +109,7 @@ function setRadioText() {
         }
     }
     document.getElementById("radio-text-1").textContent = "🎵 Love's chill vibes " + mt;
-    document.getElementById("radio-text-2").textContent = "Instupendo - Comfort Chain🎧" + mt;
+    document.getElementById("radio-text-2").textContent = "Ho Chi Minh " + mt;
     document.getElementById("radio-text-3").textContent = radioPlayingSong;
 }
 
